@@ -3,7 +3,7 @@ public class murat {
  
         System.out.println("murat ekleme");
 
-        System.out.println("denme 2");
+        System.out.println("conflikt olusturma");
  
     }
 }
