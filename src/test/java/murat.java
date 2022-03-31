@@ -4,6 +4,8 @@ public class murat {
         System.out.println("murat ekleme");
 
         System.out.println("conflikt olusturma");
+
+        System.out.println("merge deneme");
  
     }
 }
